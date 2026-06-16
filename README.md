@@ -1,7 +1,4 @@
 # Cake Management System
-
-## 📌 Overview
-
 The **Cake Management System (CMS)** is a command-line application that streamlines cake shop operations. Built with Object-Oriented Programming principles, it enables customer order management and administrative control over the system.
 
 ---
